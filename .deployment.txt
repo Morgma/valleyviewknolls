@@ -1,0 +1,3 @@
+[config]
+project = src/Orchard.Web/Orchard.Web.csproj
+
